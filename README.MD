@@ -31,13 +31,7 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [ ] W: Status
 - [ ] A: Master Branch
 
-```javascript
-function fancyAlert(arg) {
-    if(arg) {
-        $.facebox({div:'#foo})
-    }
-}
-```
+#Sample code block
 
     git clone <repo link>
     
