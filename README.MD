@@ -17,18 +17,19 @@ For this project, you need to explain how the usage of Git, Docker, automated te
 
 You must explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
-W: Repository
-A: Clone
-W: Fork
-A: Branch
-W: Commit
-A: Merge
-W: Checkout
-A: Push
-W: Pull
-A: Remote Add / Remove / Show
-W: Status
-A: Master Branch
+#Checklist
+- [ ] W: Repository
+- [ ] A: Clone
+- [ ] W: Fork
+- [ ] A: Branch
+- [ ] W: Commit
+- [ ] A: Merge
+- [ ] W: Checkout
+- [ ] A: Push
+- [ ] W: Pull
+- [ ] A: Remote Add / Remove / Show
+- [ ] W: Status
+- [ ] A: Master Branch
 
 For groups of 3, you need to add an additional section:
 
