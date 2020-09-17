@@ -1,4 +1,4 @@
 # Git Tutorial
 
-![Image of Workplace] (/image/workplace.jpg)
+![Image of Workplace](/image/workplace.jpg)
 
