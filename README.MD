@@ -31,6 +31,16 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [ ] W: Status
 - [ ] A: Master Branch
 
+```javascript
+function fancyAlert(arg) {
+    if(arg) {
+        $.facebox({div:'#foo})
+    }
+}
+```
+
+    git clone <repo link>
+    
 For groups of 3, you need to add an additional section:
 
 Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.
