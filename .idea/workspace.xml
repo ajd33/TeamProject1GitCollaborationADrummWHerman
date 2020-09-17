@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Created style.css and index.html files. Updated README.MD to contain project instructions">
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Added git tutorial link git.md test">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/git.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600273584697</updated>
-      <workItem from="1600273594006" duration="5205000" />
+      <workItem from="1600273594006" duration="9056000" />
     </task>
     <task id="LOCAL-00001" summary="Initial .gitignore and READme.MD created">
       <created>1600274653667</created>
@@ -54,7 +57,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600277266209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added git.md per video tutorial">
+      <created>1600283603381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283603381</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added markdown test">
+      <created>1600283827265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283827265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added git tutorial link git.md test">
+      <created>1600284896104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600284896104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,7 +87,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial .gitignore and READme.MD created" />
     <MESSAGE value="Created style.css and index.html files. Updated README.MD to contain project instructions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created style.css and index.html files. Updated README.MD to contain project instructions" />
+    <MESSAGE value="Added git.md per video tutorial" />
+    <MESSAGE value="Added markdown test" />
+    <MESSAGE value="Added git tutorial link git.md test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added git tutorial link git.md test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
@@ -78,9 +105,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="457" y="259" key="Github.ShareDialog/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600275139716" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600277307233">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600284900610">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600277307233" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600284900610" />
   </component>
 </project>
