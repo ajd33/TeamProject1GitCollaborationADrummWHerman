@@ -10,19 +10,24 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Repository" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Added test image to git.md">
-      <change afterPath="$PROJECT_DIR$/Repository.html" afterDir="false" />
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="added Repository.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/Repository.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="billy" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1600273584697</updated>
       <workItem from="1600273594006" duration="9187000" />
-      <workItem from="1600397711053" duration="803000" />
+      <workItem from="1600397711053" duration="2901000" />
+      <workItem from="1600622801630" duration="1614000" />
+      <workItem from="1600624493172" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="Initial .gitignore and READme.MD created">
       <created>1600274653667</created>
@@ -116,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600352383623</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added test image to git.md">
+      <created>1600398545728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600398545728</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +141,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Repository" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -147,6 +173,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial .gitignore and READme.MD created" />
@@ -155,7 +182,8 @@
     <MESSAGE value="Added markdown test" />
     <MESSAGE value="Added git tutorial link git.md test" />
     <MESSAGE value="Added test image to git.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test image to git.md" />
+    <MESSAGE value="added Repository.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Repository.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
@@ -170,9 +198,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="457" y="259" key="Github.ShareDialog/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600275139716" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600352386166">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="350" y="136" key="Vcs.Push.Dialog.v2" timestamp="1600624538389">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600352386166" />
+    <state x="350" y="136" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600624538389" />
   </component>
 </project>
