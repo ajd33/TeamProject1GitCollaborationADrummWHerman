@@ -19,15 +19,30 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Repository" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="added Repository.html">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Branch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Commit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fork.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Branch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pull.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Push.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Remote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Status.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Team Project 1 - Git Collaboration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Team Project 1 - Git Collaboration.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/Repository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +65,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hbIuAd9580N4erwg5DdA8ZG1yP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -79,7 +98,7 @@
       <workItem from="1600273594006" duration="9187000" />
       <workItem from="1600397711053" duration="2901000" />
       <workItem from="1600622801630" duration="1614000" />
-      <workItem from="1600624493172" duration="342000" />
+      <workItem from="1600624493172" duration="4981000" />
     </task>
     <task id="LOCAL-00001" summary="Initial .gitignore and READme.MD created">
       <created>1600274653667</created>
@@ -130,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600398545728</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Repository.html">
+      <created>1600624892232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600624892232</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +173,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Repository" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -186,10 +212,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="added Repository.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="603" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600629716799">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600274215946" />
+    <state x="603" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600629716799" />
     <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1600274813424">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
