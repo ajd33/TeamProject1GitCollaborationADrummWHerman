@@ -20,7 +20,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="fix: changed code block">
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Feature: Added initial clone page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600361323710</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Feature: Added initial clone page">
+      <created>1600649494479</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600649494479</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +208,8 @@
     <MESSAGE value="Added checklist" />
     <MESSAGE value="added fancy alert" />
     <MESSAGE value="fix: changed code block" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: changed code block" />
+    <MESSAGE value="Feature: Added initial clone page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial clone page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
@@ -216,10 +224,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="457" y="259" key="Github.ShareDialog/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600275139716" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600361326651">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600649744691">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600361326651" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600649744691" />
     <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600645595260">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
