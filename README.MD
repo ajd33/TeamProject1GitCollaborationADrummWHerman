@@ -23,11 +23,11 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [ ] A: Clone
 - [X ] W: Fork
 - [ ] A: Branch
-- [ ] W: Commit
+- [x ] W: Commit
 - [ ] A: Merge
-- [ ] W: Checkout
+- [x ] W: Checkout
 - [ ] A: Push
-- [ ] W: Pull
+- [ x] W: Pull
 - [ ] A: Remote Add / Remove / Show
 - [ ] W: Status
 - [ ] A: Master Branch
