@@ -10,16 +10,22 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </select>
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Fix: fixed readme.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +47,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hbIuAd9580N4erwg5DdA8ZG1yP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600273584697</updated>
-      <workItem from="1600273594006" duration="12842000" />
+      <workItem from="1600273594006" duration="9187000" />
       <workItem from="1600397711053" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="Initial .gitignore and READme.MD created">
@@ -124,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600352383623</updated>
     </task>
-
+    <task id="LOCAL-00007" summary="Fix: fixed readme.md">
+      <created>1600654004074</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600654004074</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix: updated clone page">
+      <created>1600722745433</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600722745433</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +195,9 @@
     <MESSAGE value="Added markdown test" />
     <MESSAGE value="Added git tutorial link git.md test" />
     <MESSAGE value="Added test image to git.md" />
+    <MESSAGE value="Fix: fixed readme.md" />
+    <MESSAGE value="Fix: updated clone page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated clone page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
@@ -188,5 +212,15 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="457" y="259" key="Github.ShareDialog/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600275139716" />
+    <state x="2270" y="-38" key="Vcs.Push.Dialog.v2" timestamp="1600722751916">
+      <screen x="1920" y="-179" width="1920" height="1080" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600654025668" />
+    <state x="2270" y="-38" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600722751916" />
+    <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600732587013">
+      <screen x="1920" y="-179" width="1920" height="1080" />
+    </state>
+    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600654394916" />
+    <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600732587013" />
   </component>
 </project>
