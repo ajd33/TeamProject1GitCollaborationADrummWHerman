@@ -24,7 +24,7 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [X ] W: Fork
 - [X ] A: Branch
 - [x ] W: Commit
-- [ ] A: Merge
+- [X ] A: Merge
 - [x ] W: Checkout
 - [ ] A: Push
 - [ x] W: Pull
