@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Fix: fixed readme.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Fix: fixed readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hbIuAd9580N4erwg5DdA8ZG1yP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,6 +63,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600722745433</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task: added images to repo">
+      <created>1600793075777</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600793075777</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +202,8 @@
     <MESSAGE value="Added test image to git.md" />
     <MESSAGE value="Fix: fixed readme.md" />
     <MESSAGE value="Fix: updated clone page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated clone page" />
+    <MESSAGE value="Task: added images to repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added images to repo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
@@ -212,15 +218,15 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="457" y="259" key="Github.ShareDialog/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600275139716" />
-    <state x="2270" y="-38" key="Vcs.Push.Dialog.v2" timestamp="1600722751916">
+    <state x="2270" y="-38" key="Vcs.Push.Dialog.v2" timestamp="1600793179270">
       <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
     <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600654025668" />
-    <state x="2270" y="-38" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600722751916" />
-    <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600732587013">
+    <state x="2270" y="-38" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600793179270" />
+    <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600793162094">
       <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
     <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600654394916" />
-    <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600732587013" />
+    <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600793162094" />
   </component>
 </project>
