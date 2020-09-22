@@ -25,10 +25,17 @@
     </select>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Feature: Added initial clone page">
+=======
     <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Fix: fixed readme.md">
-      <change afterPath="$PROJECT_DIR$/branch.html" afterDir="false" />
+>>>>>>> ajd33branch
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="5c2bcbe9-99a6-4022-a38a-c2d5aabe60c8" name="Default Changelist" comment="Fix: fixed readme.md" />
+>>>>>>> ajd33branch
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +160,39 @@
       <option name="project" value="LOCAL" />
       <updated>1600793075777</updated>
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00010" summary="Added checklist">
+      <created>1600356212915</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600356212915</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added fancy alert">
+      <created>1600360753710</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600360753710</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix: changed code block">
+      <created>1600361323710</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600361323710</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Feature: Added initial clone page">
+      <created>1600649494479</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600649494479</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+=======
     <option name="localTasksCounter" value="10" />
+>>>>>>> ajd33branch
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,10 +254,19 @@
     <MESSAGE value="Added markdown test" />
     <MESSAGE value="Added git tutorial link git.md test" />
     <MESSAGE value="Added test image to git.md" />
+<<<<<<< HEAD
+    <MESSAGE value="Fixed workplace image reference" />
+    <MESSAGE value="Added checklist" />
+    <MESSAGE value="added fancy alert" />
+    <MESSAGE value="fix: changed code block" />
+    <MESSAGE value="Feature: Added initial clone page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial clone page" />
+=======
     <MESSAGE value="Fix: fixed readme.md" />
     <MESSAGE value="Fix: updated clone page" />
     <MESSAGE value="Task: added images to repo" />
     <option name="LAST_COMMIT_MESSAGE" value="Task: added images to repo" />
+>>>>>>> ajd33branch
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600274215946">
@@ -233,6 +281,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="457" y="259" key="Github.ShareDialog/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600275139716" />
+<<<<<<< HEAD
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600649744691">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600649744691" />
+    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600645595260">
+      <screen x="0" y="0" width="1280" height="720" />
+=======
     <state x="2270" y="-38" key="Vcs.Push.Dialog.v2" timestamp="1600793179270">
       <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
@@ -240,6 +296,7 @@
     <state x="2270" y="-38" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600793179270" />
     <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600793162094">
       <screen x="1920" y="-179" width="1920" height="1080" />
+>>>>>>> ajd33branch
     </state>
     <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@0.0.1280.720" timestamp="1600654394916" />
     <state x="2607" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1600793162094" />
