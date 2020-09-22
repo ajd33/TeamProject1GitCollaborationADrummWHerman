@@ -18,6 +18,7 @@ For this project, you need to explain how the usage of Git, Docker, automated te
 You must explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
 #Checklist
+- [ ] A: Explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
 - [ ] W: Repository
 - [ ] A: Clone
 - [ ] W: Fork
