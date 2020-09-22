@@ -45,7 +45,15 @@
     </nav>
 
     <h1>Pull</h1>
-<p></p>
+<p>Git pull updates your current local working branch and all remote branches. You want to pull regularly on branches you are working on locally to ensure you are working on the up to date project. It is one of the most used Git commands as a result of the necessity to update your local repository.</p>
+    <p>There are many ways to use Git pull such as:
+        <ul>
+    <li><strong>git pull:</strong> Update your local working branch with commits from remote</li>
+    <li><strong>git pull --rebase:</strong> Update your local working branch with commits from remote and rewrite history so local commits occur after all new commits to avoid a merge commit.</li>
+<li><strong>git pull --force:</strong> Forces a fetch of a remote tracking branch that would not be fetched due to conflicts. </li>
+</ul>
+    There are plenty of ways to pull, but if you ever need to undo a pull, you can use git reset to undo the git merge that changed your local branch. Git reset to the commit you made before you merged, which can be found using git reflog.
+    </p>
 
 </div>
 
