@@ -20,9 +20,9 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 #Checklist
 - [ ] A: Explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
 - [X ] W: Repository
-- [ ] A: Clone
+- [X ] A: Clone
 - [X ] W: Fork
-- [ ] A: Branch
+- [X ] A: Branch
 - [x ] W: Commit
 - [ ] A: Merge
 - [x ] W: Checkout
