@@ -41,269 +41,269 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 
 #Changelog
 
--Merge pull request #36 from ajd33/bugfix6 …
--@ajd33
--Fix: clone link all html
--Andrew Drumm
-Fix: clone link
-Andrew Drumm
-Merge pull request #35 from ajd33/bugfix5 …
-@ajd33
-Fix: fixed missing branch, corrected links on all html files
-Andrew Drumm
-Merge pull request #33 from ajd33/feature-fork …
-@williamaherman
-bug:link
-@williamaherman
-Merge pull request #32 from ajd33/indexfix …
-@ajd33
-Task: added prodtools link to index
-Andrew Drumm
-feature:fixed pull page. body, text, image.
-@williamaherman
-feature:fixed pull page. body, text, image.
-@williamaherman
-Merge pull request #31 from ajd33/bugFix3 …
-@ajd33
-Task: added sources
-Andrew Drumm
-Merge pull request #30 from ajd33/bugFix3 …
-@ajd33
-Fix: fixed links in index page
-Andrew Drumm
-Merge pull request #29 from ajd33/filenamefix …
-@ajd33
-Fix: changed master branch.html to masterbranch.html
-Andrew Drumm
-Merge remote-tracking branch 'origin/feature-fork' into feature-fork
-@williamaherman
-feature:added pull page with new navbar and background
-@williamaherman
-Merge pull request #28 from ajd33/readme1
-@ajd33
-Task: added links to readme
-Andrew Drumm
-Merge pull request #27 from ajd33/checkout …
-@williamaherman
-Merge branch 'master' into checkout
-@williamaherman
-Merge pull request #26 from ajd33/feature-commit …
-@williamaherman
-Merge branch 'master' into feature-commit
-@williamaherman
-Merge branch 'master' into feature-fork
-@williamaherman
-Merge pull request #25 from ajd33/readme1 …
-@ajd33
-Merge pull request #23 from ajd33/feature-repository …
-@williamaherman
-Fix: fixed clone and branch
-Andrew Drumm
-Merge pull request #22 from ajd33/feature-pull …
-@williamaherman
-Merge pull request #20 from ajd33/readme1 …
-@ajd33
-Task: added test link
-Andrew Drumm
-Merge pull request #19 from ajd33/readme1 …
-@ajd33
-Feature: added prodtools page
-Andrew Drumm
-feature:added pull page with new navbar and background.
-@williamaherman
-feature:added repo page with new navbar and background.
-@williamaherman
-fixed bug with new link
-@williamaherman
-added new link
-@williamaherman
-added new link
-@williamaherman
-Feature: added prodtools page
-Andrew Drumm
-added new link
-@williamaherman
-Merge pull request #17 from ajd33/prodtools …
-@ajd33
-added new link
-@williamaherman
-feature: FINALLY UNDERSTAND BRANCHING! fixed navbar and template for … …
-@williamaherman
-Feature: added prodtools page
-Andrew Drumm
-feature: FINALLY UNDERSTAND BRANCHING! i fixed the navbar and layout.
-@williamaherman
-added text, image, fixed background and navbar
-@williamaherman
-Merge pull request #16 from ajd33/remote …
-@ajd33
-Feature: remote content
-Andrew Drumm
-Merge pull request #15 from ajd33/branchfix …
-@ajd33
-Fix: fixed branch & clone page
-Andrew Drumm
-added text and fixed navbar
-@williamaherman
-fixed navbar for real
-@williamaherman
-Merge pull request #14 from ajd33/checkout …
-@ajd33
-added text, fixed navbar and background color
-@williamaherman
-added text, fixed navbar and background color
-@williamaherman
-Merge remote-tracking branch 'origin/master' into master …
-@williamaherman
-feature: pull info
-@williamaherman
-Merge pull request #13 from ajd33/masterbranch …
-@ajd33
-Feature: added master branch content
-Andrew Drumm
-Merge pull request #12 from ajd33/push …
-@ajd33
-Feature: added push content
-Andrew Drumm
-Merge pull request #11 from ajd33/merge …
-@ajd33
-Feature: added merge content
-Andrew Drumm
-Merge pull request #10 from ajd33/branch …
-@ajd33
-Feature: added clone content
-Andrew Drumm
-Merge pull request #9 from ajd33/clone2 …
-@ajd33
-Feature: added clone content
-Andrew Drumm
-Andrew Drumm
-Merge branch 'master' of https://github.com/ajd33/TeamProject1GitColl… …
-Andrew Drumm
-Commits on Sep 22, 2020
-Task:updated readme checklist
-Andrew Drumm
-updated branch
-Andrew Drumm
-minor changes
-Andrew Drumm
-minor changes
-Andrew Drumm
-Feature: uploaded clone and branch content
-Andrew Drumm
-minor workspace changes
-Andrew Drumm
-minor changes
-Andrew Drumm
-Merge branch 'master' of https://github.com/ajd33/TeamProject1GitColl… …
-Andrew Drumm
-fixed conflicts
-Andrew Drumm
-workspace changes
-Andrew Drumm
-Merge remote-tracking branch 'origin/master' into master
-@williamaherman
-Merge pull request #8 from ajd33/ajd33branch …
-@ajd33
-Feature: added branch.html
-Andrew Drumm
-updated workspace
-Andrew Drumm
-Merge pull request #7 from ajd33/fixreadme …
-@ajd33
-Modified git ignore
-Andrew Drumm
-Merge pull request #6 from ajd33/fixreadme …
-@ajd33
-'idea/workspace.xml
-Andrew Drumm
-Merge pull request #5 from ajd33/fixreadme …
-@ajd33
-Task: added images to repo
-Andrew Drumm
-Task: added images to repo
-Andrew Drumm
-Commits on Sep 21, 2020
-feature: pull info
-@williamaherman
-feature: set up pull template filled in checkout data
-@williamaherman
-williamaherman committed yesterday
-feature: set up commit page template
-@williamaherman
-williamaherman committed yesterday
-fork page and also the repo page was fixed
-@williamaherman
-williamaherman committed yesterday
-Merge remote-tracking branch 'origin/master' into Repository
-@williamaherman
-williamaherman committed yesterday
-Merge pull request #4 from ajd33/fixreadme …
-@ajd33
-ajd33 committed yesterday
-Merge branch 'master' into fixreadme
-@ajd33
-ajd33 committed yesterday
-Feature: added images folder
-@ajd33
-ajd33 committed yesterday
-Merge remote-tracking branch 'origin/master' into Repository …
-@williamaherman
-williamaherman committed yesterday
-Fix: updated clone page
-@ajd33
-ajd33 committed yesterday
-Commits on Sep 20, 2020
-Merge pull request #3 from ajd33/fixreadme …
-@ajd33
-Fix: fixed readme.md
-@ajd33
-Merge pull request #2 from ajd33/clone …
-@ajd33
-Feature:added clone.html
-@ajd33
-Commits on Sep 20, 2020
-Feature: Added clone page
-@ajd33
-Feature: Added initial clone page
-@ajd33
-edited background
-@williamaherman
-edited jumbrotron and finished home page. added remaining pages.
-@williamaherman
-added webpages worked on landing page
-@williamaherman
-Merge pull request #1 from ajd33/Repository …
-@williamaherman
-added Repository.html
-@williamaherman
-Commits on Sep 17, 2020
-Added test image to git.md
-@williamaherman
-fix: changed code block
-@ajd33
-added fancy alert
-@ajd33
-Added checklist
-@ajd33
-Fixed workplace image reference
-@ajd33
-Fixed workplace image reference
-@ajd33
-Fixed workplace image reference
-@ajd33
-Added test image to git.md
-@ajd33
-Commits on Sep 16, 2020
-Added git tutorial link git.md test
-@ajd33
-This reverts commit ca0e225.
-@ajd33
-Added markdown test
-@ajd33
-Added git.md per video tutorial
-@ajd33
-Created style.css and index.html files. Updated README.MD to contain … …
-@ajd33
-Initial .gitignore and READme.MD created
-@ajd33
+<p>Merge pull request #36 from ajd33/bugfix6 …<p>
+<p>@ajd33<p>
+<p>Fix: clone link all html<p>
+<p>Andrew Drumm<p>
+<p>Fix: clone link<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #35 from ajd33/bugfix5 …<p>
+<p>@ajd33<p>
+<p>Fix: fixed missing branch, corrected links on all html files<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #33 from ajd33/feature-fork …<p>
+<p>@williamaherman<p>
+<p>bug:link<p>
+<p>@williamaherman<p>
+<p>Merge pull request #32 from ajd33/indexfix …<p>
+<p>@ajd33<p>
+<p>Task: added prodtools link to index<p>
+<p>Andrew Drumm<p>
+<p>feature:fixed pull page. body, text, image.<p>
+<p>@williamaherman<p>
+<p>feature:fixed pull page. body, text, image.<p>
+<p>@williamaherman<p>
+<p>Merge pull request #31 from ajd33/bugFix3 …<p>
+<p>@ajd33<p>
+<p>Task: added sources<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #30 from ajd33/bugFix3 …<p>
+<p>@ajd33<p>
+<p>Fix: fixed links in index page<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #29 from ajd33/filenamefix …<p>
+<p>@ajd33<p>
+<p>Fix: changed master branch.html to masterbranch.html<p>
+<p>Andrew Drumm<p>
+<p>Merge remote-tracking branch 'origin/feature-fork' into feature-fork<p>
+<p>@williamaherman<p>
+<p>feature:added pull page with new navbar and background<p>
+<p>@williamaherman<p>
+<p>Merge pull request #28 from ajd33/readme1<p>
+<p>@ajd33<p>
+<p>Task: added links to readme<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #27 from ajd33/checkout …<p>
+<p>@williamaherman<p>
+<p>Merge branch 'master' into checkout<p>
+<p>@williamaherman<p>
+<p>Merge pull request #26 from ajd33/feature-commit …<p>
+<p>@williamaherman<p>
+<p>Merge branch 'master' into feature-commit<p>
+<p>@williamaherman<p>
+<p>Merge branch 'master' into feature-fork<p>
+<p>@williamaherman<p>
+<p>Merge pull request #25 from ajd33/readme1 …<p>
+<p>@ajd33<p>
+<p>Merge pull request #23 from ajd33/feature-repository …<p>
+<p>@williamaherman<p>
+<p>Fix: fixed clone and branch<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #22 from ajd33/feature-pull …<p>
+<p>@williamaherman<p>
+<p>Merge pull request #20 from ajd33/readme1 …<p>
+<p>@ajd33<p>
+<p>Task: added test link<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #19 from ajd33/readme1 …<p>
+<p>@ajd33<p>
+<p>Feature: added prodtools page<p>
+<p>Andrew Drumm<p>
+<p>feature:added pull page with new navbar and background.<p>
+<p>@williamaherman<p>
+<p>feature:added repo page with new navbar and background.<p>
+<p>@williamaherman<p>
+<p>fixed bug with new link<p>
+<p>@williamaherman<p>
+<p>added new link<p>
+<p>@williamaherman<p>
+<p>added new link<p>
+<p>@williamaherman<p>
+<p>Feature: added prodtools page<p>
+<p>Andrew Drumm<p>
+<p>added new link<p>
+<p>@williamaherman<p>
+<p>Merge pull request #17 from ajd33/prodtools …<p>
+<p>@ajd33<p>
+<p>added new link<p>
+<p>@williamaherman<p>
+<p>feature: FINALLY UNDERSTAND BRANCHING! fixed navbar and template for … …<p>
+<p>@williamaherman<p>
+<p>Feature: added prodtools page<p>
+<p>Andrew Drumm<p>
+<p>feature: FINALLY UNDERSTAND BRANCHING! i fixed the navbar and layout.<p>
+<p>@williamaherman<p>
+<p>added text, image, fixed background and navbar<p>
+<p>@williamaherman<p>
+<p>Merge pull request #16 from ajd33/remote …<p>
+<p>@ajd33<p>
+<p>Feature: remote content<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #15 from ajd33/branchfix …<p>
+<p>@ajd33<p>
+<p>Fix: fixed branch & clone page<p>
+<p>Andrew Drumm<p>
+<p>added text and fixed navbar<p>
+<p>@williamaherman<p>
+<p>fixed navbar for real<p>
+<p>@williamaherman<p>
+<p>Merge pull request #14 from ajd33/checkout …<p>
+<p>@ajd33<p>
+<p>added text, fixed navbar and background color<p>
+<p>@williamaherman<p>
+<p>added text, fixed navbar and background color<p>
+<p>@williamaherman<p>
+<p>Merge remote-tracking branch 'origin/master' into master …<p>
+<p>@williamaherman<p>
+<p>feature: pull info<p>
+<p>@williamaherman<p>
+<p>Merge pull request #13 from ajd33/masterbranch …<p>
+<p>@ajd33<p>
+<p>Feature: added master branch content<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #12 from ajd33/push …<p>
+<p>@ajd33<p>
+<p>Feature: added push content<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #11 from ajd33/merge …<p>
+<p>@ajd33<p>
+<p>Feature: added merge content<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #10 from ajd33/branch …<p>
+<p>@ajd33<p>
+<p>Feature: added clone content<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #9 from ajd33/clone2 …<p>
+<p>@ajd33<p>
+<p>Feature: added clone content<p>
+<p>Andrew Drumm<p>
+<p>Andrew Drumm<p>
+<p>Merge branch 'master' of https://github.com/ajd33/TeamProject1GitColl… …<p>
+<p>Andrew Drumm<p>
+<p>Commits on Sep 22, 2020<p>
+<p>Task:updated readme checklist<p>
+<p>Andrew Drumm<p>
+<p>updated branch<p>
+<p>Andrew Drumm<p>
+<p>minor changes<p>
+<p>Andrew Drumm<p>
+<p>minor changes<p>
+<p>Andrew Drumm<p>
+<p>Feature: uploaded clone and branch content<p>
+<p>Andrew Drumm<p>
+<p>minor workspace changes<p>
+<p>Andrew Drumm<p>
+<p>minor changes<p>
+<p>Andrew Drumm<p>
+<p>Merge branch 'master' of https://github.com/ajd33/TeamProject1GitColl… …<p>
+<p>Andrew Drumm<p>
+<p>fixed conflicts<p>
+<p>Andrew Drumm<p>
+<p>workspace changes<p>
+<p>Andrew Drumm<p>
+<p>Merge remote-tracking branch 'origin/master' into master<p>
+<p>@williamaherman<p>
+<p>Merge pull request #8 from ajd33/ajd33branch …<p>
+<p>@ajd33<p>
+<p>Feature: added branch.html<p>
+<p>Andrew Drumm<p>
+<p>updated workspace<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #7 from ajd33/fixreadme …<p>
+<p>@ajd33<p>
+<p>Modified git ignore<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #6 from ajd33/fixreadme …<p>
+<p>@ajd33<p>
+<p>'idea/workspace.xml<p>
+<p>Andrew Drumm<p>
+<p>Merge pull request #5 from ajd33/fixreadme …<p>
+<p>@ajd33<p>
+<p>Task: added images to repo<p>
+<p>Andrew Drumm<p>
+<p>Task: added images to repo<p>
+<p>Andrew Drumm<p>
+<p>Commits on Sep 21, 2020<p>
+<p>feature: pull info<p>
+<p>@williamaherman<p>
+<p>feature: set up pull template filled in checkout data<p>
+<p>@williamaherman<p>
+<p>williamaherman committed yesterday<p>
+<p>feature: set up commit page template<p>
+<p>@williamaherman<p>
+<p>williamaherman committed yesterday<p>
+<p>fork page and also the repo page was fixed<p>
+<p>@williamaherman<p>
+<p>williamaherman committed yesterday<p>
+<p>Merge remote-tracking branch 'origin/master' into Repository<p>
+<p>@williamaherman<p>
+<p>williamaherman committed yesterday<p>
+<p>Merge pull request #4 from ajd33/fixreadme …<p>
+<p>@ajd33<p>
+<p>ajd33 committed yesterday<p>
+<p>Merge branch 'master' into fixreadme<p>
+<p>@ajd33<p>
+<p>ajd33 committed yesterday<p>
+<p>Feature: added images folder<p>
+<p>@ajd33<p>
+<p>ajd33 committed yesterday<p>
+<p>Merge remote-tracking branch 'origin/master' into Repository …<p>
+<p>@williamaherman<p>
+<p>williamaherman committed yesterday<p>
+<p>Fix: updated clone page<p>
+<p>@ajd33<p>
+<p>ajd33 committed yesterday<p>
+<p>Commits on Sep 20, 2020<p>
+<p>Merge pull request #3 from ajd33/fixreadme …<p>
+<p>@ajd33<p>
+<p>Fix: fixed readme.md<p>
+<p>@ajd33<p>
+<p>Merge pull request #2 from ajd33/clone …<p>
+<p>@ajd33<p>
+<p>Feature:added clone.html<p>
+<p>@ajd33<p>
+<p>Commits on Sep 20, 2020<p>
+<p>Feature: Added clone page<p>
+<p>@ajd33<p>
+<p>Feature: Added initial clone page<p>
+<p>@ajd33<p>
+<p>edited background<p>
+<p>@williamaherman<p>
+<p>edited jumbrotron and finished home page. added remaining pages.<p>
+<p>@williamaherman<p>
+<p>added webpages worked on landing page<p>
+<p>@williamaherman<p>
+<p>Merge pull request #1 from ajd33/Repository …<p>
+<p>@williamaherman<p>
+<p>added Repository.html<p>
+<p>@williamaherman<p>
+<p>Commits on Sep 17, 2020<p>
+<p>Added test image to git.md<p>
+<p>@williamaherman<p>
+<p>fix: changed code block<p>
+<p>@ajd33<p>
+<p>added fancy alert<p>
+<p>@ajd33<p>
+<p>Added checklist<p>
+<p>@ajd33<p>
+<p>Fixed workplace image reference<p>
+<p>@ajd33<p>
+<p>Fixed workplace image reference<p>
+<p>@ajd33<p>
+<p>Fixed workplace image reference<p>
+<p>@ajd33<p>
+<p>Added test image to git.md<p>
+<p>@ajd33<p>
+<p>Commits on Sep 16, 2020<p>
+<p>Added git tutorial link git.md test<p>
+<p>@ajd33<p>
+<p>This reverts commit ca0e225.<p>
+<p>@ajd33<p>
+<p>Added markdown test<p>
+<p>@ajd33<p>
+<p>Added git.md per video tutorial<p>
+<p>@ajd33<p>
+<p>Created style.css and index.html files. Updated README.MD to contain … …<p>
+<p>@ajd33<p>
+<p>Initial .gitignore and READme.MD created<p>
+<p>@ajd33<p>
