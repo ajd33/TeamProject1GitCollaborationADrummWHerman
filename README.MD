@@ -29,7 +29,7 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [ ] A: Push
 - [ x] W: Pull
 - [ ] A: Remote Add / Remove / Show
-- [ ] W: Status
+- [ X] W: Status
 - [ ] A: Master Branch
 
 #Sample code block
