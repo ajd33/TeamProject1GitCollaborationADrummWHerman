@@ -18,6 +18,7 @@ For this project, you need to explain how the usage of Git, Docker, automated te
 You must explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
 #Checklist
+
 - [X ] W: [Repository](\Repository.html)
 - [X ] A: [Clone](\Clone.html)
 - [X ] W: [Fork](\Fork.html)
@@ -32,7 +33,7 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [X ] A: [Master Branch](masterbranch.html)
 - [X ] W: [GitFlow](gitflow.html)
 - [X ] A: [Git, Docker, Automated testing, and Continuous Integration](prodtools.html)
-    
+
     
 #Sources
 - [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
