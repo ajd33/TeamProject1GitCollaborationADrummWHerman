@@ -1,6 +1,6 @@
 # Team Project 1 - Git Collaboration
 
-* [Git Tutorial](/git.md)
+* Team Members: Andrew Drumm and William Herman
 
 For this mini-project, you need to find at least one partner to make a team of 2-3 people.  In this group, you need to create a single repository and elect one person to merge pull requests as the team leader.  You must have at least 10 substantive commits per group member that are marked "feature".  Any fixes to "features" must be marked as fixes and do not count.  Commits for creating files or renaming files or other non-feature work should be named "task".
 
@@ -18,31 +18,21 @@ For this project, you need to explain how the usage of Git, Docker, automated te
 You must explain the gitFlow (Links to an external site.) workflow and have a section to define and give examples of how to use the following Git commands and terminology:
 
 #Checklist
-- [ ] A: Explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
-- [ ] W: Repository
-- [ ] A: Clone
-- [ ] W: Fork
-- [ ] A: Branch
-- [ ] W: Commit
-- [ ] A: Merge
-- [ ] W: Checkout
-- [ ] A: Push
-- [ ] W: Pull
-- [ ] A: Remote Add / Remove / Show
-- [ ] W: Status
-- [ ] A: Master Branch
-
-#Sample code block
-
-    git clone <repo link>
+- [X ] W: [Repository](repository.html)
+- [X ] A: Clone
+- [X ] W: Fork
+- [X ] A: Branch
+- [x ] W: Commit
+- [X ] A: Merge
+- [x ] W: Checkout
+- [X ] A: Push
+- [X ] W: Pull
+- [X ] A: Remote Add / Remove / Show
+- [X ] W: Status
+- [X ] A: Master Branch
+- [X ] W: GitFlow
+- [X ] A: Git, Docker, Automated testing, and Continuous Integration
     
-For groups of 3, you need to add an additional section:
-
-Create a step by step tutorial that explains how to set up Git and work collaboratively with more than one person.  You must explain the concept of branching and how to to use branches to avoid merge conflicts, your tutorial must illustrate how to create a merge conflict and resolve the merge conflict.
-1. Forking vs Cloning
-2. Pull Request
-3.  Adding a collaborator to a Github Repo.
-
 Formating and style:
 
 1.  Use separate pages as necessary, don't mix the sections up, use one or more pages.
