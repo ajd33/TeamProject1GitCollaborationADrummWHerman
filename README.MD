@@ -29,10 +29,15 @@ You must explain the gitFlow (Links to an external site.) workflow and have a se
 - [X ] W: [Pull](pull.html)
 - [X ] A: [Remote Add / Remove / Show](remote.html)
 - [X ] W: [Status](status.html)
-- [X ] A: [Master Branch](master branch.html)
+- [X ] A: [Master Branch](masterbranch.html)
 - [X ] W: [GitFlow](gitflow.html)
 - [X ] A: [Git, Docker, Automated testing, and Continuous Integration](prodtools.html)
     
+    
+#Sources
+- [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+
+
 Formating and style:
 
 1.  Use separate pages as necessary, don't mix the sections up, use one or more pages.
